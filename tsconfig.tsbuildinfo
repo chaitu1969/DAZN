@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/db.ts","./src/controllers/moviecontroller.ts","./src/middlewares/auth.ts","./src/models/movie.ts","./src/routes/movierouter.ts","./src/tests/moviecontrollers.test.ts","./src/tests/setup.ts","./src/tests/unit/middleware/adminauth.test.ts","./src/tests/unit/models/moviemodel.test.ts"],"version":"5.7.2"}
