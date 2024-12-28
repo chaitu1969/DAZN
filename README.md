@@ -41,6 +41,7 @@ Danz is a backend API for managing movies, allowing operations like listing, sea
 ## Installation
 
 ### 1. Clone the Repository
+https://github.com/chaitu1969/DAZN
 
 ```bash
 
